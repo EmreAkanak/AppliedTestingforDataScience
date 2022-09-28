@@ -15,9 +15,39 @@ Course Notes
 
 
 
-This repository has been created for Applied Testing for Data Science Lecture.
+This repository has been created for Applied Testing for Data Science Lecture. It has been created by lecturer Emre Akanak for course students and this repository is constantly being updated.
 
+Course content
 
+- Course Frame 
+
+- Overview on Applied Tests in Data Science
+
+- Basic Python I 
+
+- Basic Python II 
+
+- Basic Statistics & Distribution 
+
+- AD (Anderson Darling) Test(ing)
+
+- KS (Kolmogorov Smirnov) Test(ing)
+
+- Hypothesis Test(ing)
+
+- A/B Test(ing)
+
+- Chi2 (Chi – Square) Test
+
+- Unit Root Test /Adfuller & KPSS Test(ing)
+
+- ANOVA
+
+- ANCOVA
+
+- Mann Whitney U Test
+
+- Cohen’s – Kappa Test 
 
 
 
