@@ -3,7 +3,7 @@ Course Notes
 
 
 
-![Screen Shot 2022-09-28 at 04 02 41](https://user-images.githubusercontent.com/53918883/192664014-06cb8e99-2528-4191-99ec-a33321236961.png)
+![Screen Shot 2022-09-28 at 04 42 32](https://user-images.githubusercontent.com/53918883/192668233-ad84bb62-c3dd-4df8-b460-37c0fb3ffa0b.png)
 
 
 
@@ -15,13 +15,17 @@ Course Notes
 
 
 
-This repository has been created for Applied Testing for Data Science Lecture. It has been created by lecturer Emre Akanak for course students and this repository is constantly being updated.
+This repository has been created for Applied Testing for Data Science Lecture. It has been created by lecturer Emre Akanak for course students and this repository is constantly being updated. 
 
-Course content
+
+
+### Course content;
 
 - Course Frame 
 
 - Overview on Applied Tests in Data Science
+
+- Basic Concepts
 
 - Basic Python I 
 
@@ -48,6 +52,5 @@ Course content
 - Mann Whitney U Test
 
 - Cohen’s – Kappa Test 
-
 
 
