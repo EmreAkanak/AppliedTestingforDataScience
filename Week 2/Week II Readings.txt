@@ -1,0 +1,16 @@
+Week II Readings; 
+
+1. Hypothesis Testing: https://medium.com/@thecodingcookie/hypothesis-testing-92b7270976de (optional)
+
+2. General Purpose of Testing by Peter Baumgarter: https://www.peterbaumgartner.com/blog/testing-for-data-science/  (Required) 
+
+3. Basic Test concepts: https://www.stratascratch.com/blog/basic-types-of-statistical-tests-in-data-science/ (Recommended)
+
+4. Role of Data Science in Research: https://www.cambridgespark.com/case-studies/the-role-of-data-science-in-research (optional)
+
+5. Scientific Research and Big Data: https://plato.stanford.edu/entries/science-big-data/ (optional) 
+
+6. Hypothesis Testing for Data Scientists: https://towardsdatascience.com/hypothesis-testing-for-data-scientists-everything-you-need-to-know-8c36ddde4cd2 (optional) 
+
+7. What Should Data scientist Learn: https://www.peterbaumgartner.com/blog/what-should-data-scientists-learn/ (optional)
+
