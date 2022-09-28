@@ -15,7 +15,7 @@ Course Notes
 
 
 
-This repository has been created for Applied Testing for Data Science Lecture. It has been created by lecturer Emre Akanak for course students and this repository is constantly being updated. 
+This repository has been created for Applied Testing for Data Science Course. It contains documentations, datasets, Python codes, Jupyter Notebooks and weekly notes. As an open source repositıry which was created under MIT license all data is publically available. 
 
 
 
